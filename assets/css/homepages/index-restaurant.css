@@ -162,7 +162,7 @@ blockquote {
 }
 
 .menu-item:nth-child(2n) {
-  background-color: #ebebeb;
+  background-color: #FFF2E5;
 }
 
 .menu-item + .menu-item {
